@@ -1,0 +1,26 @@
+activate gripper
+pickup_tray(Gantry , pick up y tray from the table )
+deactivate gripper
+place_tray(Gantry , y tray  is placed on AGV 1 )
+activate gripper
+pickup_part(gantry , from bin 4 ,red part  )
+deactivate gripper
+place_part(gantry , place red part in y tray that is on AGV 1
+activate gripper
+pickup_part(gantry , from bin 4 ,red part  )
+deactivate gripper
+place_part(gantry , place red part in y tray that is on AGV 1
+activate gripper
+pickup_part(gantry , from bin 3 ,green part  )
+deactivate gripper
+place_part(gantry , place green part in y tray that is on AGV 1
+activate gripper
+pickup_part(gantry , from bin 3 ,green part  )
+deactivate gripper
+place_part(gantry , place green part in y tray that is on AGV 1
+activate gripper
+pickup_part(UR10 , from bin 2 ,blue part  )
+deactivate gripper
+place_part(UR10 , place blue part in y tray that is on AGV 1
+The kit is complete
+ship_agv(agv1 , y_tray , assemble1)

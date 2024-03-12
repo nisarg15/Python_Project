@@ -1,0 +1,12 @@
+**************************************************
+Updated Dictonaty
+{'agvs': {'AGV': '1', 'possible_destination': '1'},
+ 'bins': {'bin2': {'part_quantity': 4, 'part_type': 'blue Part'},
+          'bin3': {'part_quantity': 4, 'part_type': 'green Part'},
+          'bin4': {'part_quantity': 4, 'part_type': 'Red Part'}},
+ 'kit': {'agv': 1, 'complete': False, 'tray': 'y'},
+ 'parts': ['red_part', 'green_part', 'blue_part'],
+ 'trays': {'yellow_tray': {'current_parts': 0,
+                           'expected_parts': 5,
+                           'location': 'table'}}}
+**************************************************
