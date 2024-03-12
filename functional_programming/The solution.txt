@@ -1,0 +1,16 @@
+solution is possible
+==================================================
+pickup_tray(robot_ceiling, yellow_tray, yellow_tray_table)
+place_tray(robot_ceiling, yellow_tray,agv1)
+pick_red_part(celing_robot, bin3,red_part)
+place_red_part(celing_robot, y_tray,red_part,agv1)
+pick_red_part(celing_robot, bin3,red_part)
+place_red_part(celing_robot, y_tray,red_part,agv1)
+pick_green_part(floor_robot, bin1,green_part)
+place_green_part(floor_robot, y_tray,green_part,agv1)
+pick_green_part(floor_robot, bin1,green_part)
+place_green_part(floor_robot, y_tray,green_part,agv1)
+pick_blue_part(floor_robot, bin2,blue_part)
+place_blue_part(floor_robot, y_tray,blue_part,agv1)
+ship_agv(agv1 , y_tray , assemble2)
+==================================================

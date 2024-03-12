@@ -1,0 +1,36 @@
+Bin that has red parts? [1,2,3,4]
+
+3
+How many red parts in the bin ? [0,4,9]
+
+4
+Bin that has green parts? [1,2,3,4]
+
+1
+How many green parts in the bin ? [0,4,9]
+
+9
+Bin that has blue parts? [1,2,3,4]
+
+2
+How many blue parts in the bin [0,4,9]?
+
+9
+AGV to use for kitting [1,2,3,4]
+
+1
+Select the tray [y]yellow, [g]ray
+
+y
+The number of red_part to put in the tray [0,1,2]
+
+2
+The number of green_part to put in the tray [0,1,2]
+
+2
+The number of blue_part to put in the tray [0,1,2]
+
+1
+assembly station [1,2,3,4]
+
+2
